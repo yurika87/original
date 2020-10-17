@@ -18,7 +18,7 @@
 
 コードの確認
 
-  ・"injure.py"　と　"pitcher_performance.py"　を先に実行しCSVファイルを作成
+  ・"injured.py"　と　"pitcher_performance.py"　を先に実行しCSVファイルを作成
       --python injure.py
       --python pitcher_performance.py
       
